@@ -33,7 +33,7 @@ while True:
         print('去吃:', random.choice(meals))
     
     if ans == '4' or ans == '4.':
-        print('不吃就不吃')
+        print('886')
         break
 
     try:
